@@ -1,5 +1,7 @@
 # 📄 Permissions Module
 
+https://files.fm/u/bvk3vsbfye
+
 Este módulo é responsável pelo gerenciamento de **grupos de usuários (permissões)**, permitindo a visualização, criação, edição, ativação/desativação e filtragem de permissões no sistema.
 
 ## 🧩 Componentes e Funcionalidades
