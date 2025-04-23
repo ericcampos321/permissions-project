@@ -1,5 +1,5 @@
 # 📄 Permissions Module
-(https://files.fm/u/bvk3vsbfye)
+<img align="center" alt="" src="soniga.png">
 
 
 Este módulo é responsável pelo gerenciamento de **grupos de usuários (permissões)**, permitindo a visualização, criação, edição, ativação/desativação e filtragem de permissões no sistema.
